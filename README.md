@@ -1,6 +1,4 @@
-# docs
-
-Hybrid authorization: 
+# Hybrid authorization:  
 
 
 Managing centralized access control decisions across different systems and applications. 
