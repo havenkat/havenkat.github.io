@@ -1,4 +1,4 @@
-# Hybrid Authorization
+# Authorization
 
 Managing centralized access control decisions across different systems and applications. 
 
