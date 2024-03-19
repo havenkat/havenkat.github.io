@@ -1,4 +1,2 @@
 site_name: Hari Docs
 site_url: https://havenkat.github.io/
-nav:
-  - Authorization : authz.md
