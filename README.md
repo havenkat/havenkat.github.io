@@ -1,6 +1,5 @@
 ## Author
 * **Hari P Venkateshaiah** - *Initial work* - [havenkat]
 
-## Authorization
-[Authorizatio][def]
+[Authorization][def]
 [def]: ./books/docs/authz.md
