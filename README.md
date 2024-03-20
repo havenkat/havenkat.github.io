@@ -2,7 +2,7 @@
 [Authorization][def]
 [def]: ./books/docs/authz.md
 
-[Authorization][mtls]
+[Mutual TLS][mtls]
 [mtls]: ./books/docs/mtls.md 
 
 [Cedar][Cedar]
@@ -10,5 +10,6 @@
 
 [Rust][Rust]
 [Rust]: ./books/docs/rust.md
+
 Author
 * **Hari P Venkateshaiah** 
