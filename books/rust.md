@@ -1,15 +1,15 @@
-- Modern systems programming language
+## Modern systems programming language
 
 Focuses on safety, speed, and concurrency.  Here’s a quick rundown of Rust basics:
 
-##### Variables: 
+### Variables: 
 By default, variables in Rust are immutable. 
 
 let x = 5; // immutable
 
 let mut y = 10; // mutable
 
-##### Control Flow: 
+### Control Flow: 
 Rust provides if statements and loops (loop, while, and for) for control flow.
 
 --
@@ -27,7 +27,7 @@ for i in 0..5 {
 
 
 --
-##### Functions: 
+### Functions: 
 Functions are declared with fn and have a set of parameters and an optional return type.
 
 ```Rust 
@@ -38,7 +38,7 @@ fn add(a: i32, b: i32) -> i32 {
 ```
 
 ----
-##### Ownership: 
+### Ownership: 
 A unique feature of Rust that ensures memory safety without a garbage collector. Ownership rules help manage heap data.
 
 
