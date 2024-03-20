@@ -1,15 +1,15 @@
 
 [Authorization][def]
-[def]: ./books/docs/authz.md
+[def]: ./books/authz.md
 
 [Mutual TLS][mtls]
-[mtls]: ./books/docs/mtls.md 
+[mtls]: ./books/mtls.md 
 
 [Cedar][Cedar]
-[Cedar]: ./books/docs/cedar.md
+[Cedar]: ./books/cedar.md
 
 [Rust][Rust]
-[Rust]: ./books/docs/rust.md
+[Rust]: ./books/rust.md
 
 Author
 * **Hari P Venkateshaiah** 
