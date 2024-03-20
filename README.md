@@ -6,11 +6,7 @@
 <div align="center">
 
 [![][logo-url]][repo-url]  
-
-**Free Tailwind CSS Components**  
-[ [See all components ↗︎][repo-url] ]
   
-
 </div>
 
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
