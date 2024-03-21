@@ -1,6 +1,5 @@
 site_name: Hari's Books
 site_url: https://havenkat.github.io/
-site_author: Hari P Venkateshaiah
 
 nav:
   - Home: index.md
@@ -9,5 +8,3 @@ nav:
       - Concepts: books/authz.md
       - Mutual Auth: books/mtls.md 
       - Cedar: books/cedar.md
-
-theme: readthedocs
