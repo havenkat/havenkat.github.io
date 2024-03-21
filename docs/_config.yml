@@ -1,6 +1,7 @@
 name: Hari's Docs
 title: Havenkat books
 show_downloads: false
+theme: "just-the-docs"
 
 menu:
   - title: Home
