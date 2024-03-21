@@ -1,18 +1,12 @@
-show_downloads: false
-
 name: Hari's Docs
 title: Havenkat books
+show_downloads: false
 
-tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Authorization
+    url: books/authz.md
 
 
 markdown: kramdown
