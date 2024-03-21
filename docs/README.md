@@ -1,4 +1,4 @@
-nav :
+* **Index** :
   - [Home](./README.md)
   - [Rust](./books/rust.md)
   - Authorization:
