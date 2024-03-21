@@ -3,11 +3,15 @@ title: Havenkat books
 show_downloads: false
 theme: "just-the-docs"
 
-menu:
-  - title: Home
-    url: /
-  - title: Authorization
-    url: books/authz.md
+navigation:
+  - title: "Home"
+    url: ./README.md
+  - title: "Authorization"
+    url: ./books/authz.md
+  - title: "First Page"
+    url: /docs/first_page.md
+  - title: "Second Page"
+    url: /docs/second_page.md
 
 
 markdown: kramdown
