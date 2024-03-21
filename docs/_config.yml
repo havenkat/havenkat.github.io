@@ -6,8 +6,10 @@ theme: "just-the-docs"
 navigation:
   - title: "Home"
     url: ./README.md
+    internal: true
   - title: "Authorization"
     url: ./books/authz.md
+    internal: true
   - title: "First Page"
     url: /docs/first_page.md
   - title: "Second Page"
@@ -15,13 +17,11 @@ navigation:
 
 
 markdown: kramdown
-highlighter: rouge
-permalink: /:title/
-collections:
-  authors:
-    output: true
-paginate_path: "/page/:num/"
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 plugins:
+  - jekyll-default-layout
   - jekyll-paginate
   - jekyll-paginate-content
