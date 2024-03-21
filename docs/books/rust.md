@@ -1,4 +1,5 @@
-## Modern systems programming language
+## Rust 
+##### Modern systems programming language
 
 Focuses on safety, speed, and concurrency.  Here’s a quick rundown of Rust basics:
 

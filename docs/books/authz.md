@@ -1,8 +1,7 @@
 ## Authorization
 
 Managing centralized access control decisions across different systems and applications. 
-
-Benefits for Security:
+- Benefits for Security:
 
 Centralized Policy Authoring and managing: Hybrid authorization allows defining and enforcing access control policies from a central location. 
 
