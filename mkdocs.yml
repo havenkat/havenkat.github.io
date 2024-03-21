@@ -3,8 +3,7 @@ site_url: https://havenkat.github.io/
 site_author: Hari P Venkateshaiah
 
 nav:
-  - Rust:
-      - books/rust.md
+  - Rust: books/rust.md
   - Authorization:
       - Concepts: books/authz.md
       - Mutual Auth: books/mtls.md 
