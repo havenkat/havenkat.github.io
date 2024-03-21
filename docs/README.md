@@ -1,5 +1,5 @@
 ---
-  - Home: ![](./README.md)
+  - Home: [](./README.md)
   - Rust: [](./books/rust.md)
   - Authorization:
       - Concepts: [Basics](./books/authz.md)
