@@ -9,4 +9,5 @@ nav:
 
 
 Author
+* **inside docs**
 * **Hari P Venkateshaiah** 
