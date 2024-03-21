@@ -1,2 +1,0 @@
-Author
-* **Hari P Venkateshaiah** 
