@@ -2,7 +2,7 @@
   - [Home](./README.md)
   - [Rust](./books/rust.md)
   - Authorization:
-      - [Basics Concepts](./books/authz.md)
+      - [Basic Concepts](./books/authz.md)
       - [Mutual Auth](./books/mtls.md)
       - [Cedar](./books/cedar.md)
 
