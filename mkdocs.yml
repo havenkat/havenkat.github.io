@@ -8,3 +8,5 @@ nav:
   - Authorization:
       - Concepts: books/authz.md
       - Mutual Auth: books/mtls.md 
+
+theme: readthedocs
