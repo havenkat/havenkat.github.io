@@ -1,1 +1,28 @@
 show_downloads: false
+
+name: Hari's Docs
+title: Havenkat books
+
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Home
+    url: /
+
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
