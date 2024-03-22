@@ -7,15 +7,11 @@ It is created on the request for instance, and same instance is served for every
 ```
 package pattern1
 
-type singleton_pattern interface {
-    Increment() int
-}
-
 type single struct {
     item int
 }
 
-var instance *single
+var instance *single // scope of the package.
 
 func GetInstance() *single {
   if instance == nil {
