@@ -3,7 +3,7 @@
 |   |   |   |
 |---|---|---|
 |[Home](./README.md) | Authorization | [Rust](./books/rust.md) |  
-|   |  - [Basic Concepts](./books/authz.md) - [Cedar](./books/cedar.md)   |   |   
+|   |  [Basic Concepts](./books/authz.md) [Cedar](./books/cedar.md)   |   |   
 |   |   |   |
 
   
