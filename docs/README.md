@@ -1,9 +1,8 @@
-* **Index** 
 
 |   |   |   |
 |---|---|---|
-|[Home](./README.md) | Authorization | [Rust](./books/rust.md) |  
-|   |  [Basic Concepts](./books/authz.md) [Cedar](./books/cedar.md)   |   |   
+|[Home](./README.md) | Authorization | Rust |  
+|   |  [Basic Concepts](./books/authz.md) [Cedar](./books/cedar.md)   | [Basic](./books/rust/basic.md)  |   
 |   |   |   |
 
   
