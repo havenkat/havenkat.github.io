@@ -13,7 +13,7 @@ Policy is a schema which holds the relationship of
  1) who .
  2)on what .
  3)How .
- 
+
 ```
 {
     Policy = (Subject,Resource(s),Role(s)
@@ -28,3 +28,6 @@ Role(s) = Collection Permissions, which is allowed on each Resource.
 Permission(s) = Service.resource.action ex:- Order.PendingOrders.view
 
 ```
+
+----
+[Home](/docs/README.md)
