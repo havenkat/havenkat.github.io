@@ -30,4 +30,4 @@ Permission(s) = Service.resource.action ex:- Order.PendingOrders.view
 ```
 
 ----
-[Home](/docs/README.md)
+[Home](../README.md)

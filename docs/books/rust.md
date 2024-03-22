@@ -43,5 +43,5 @@ fn add(a: i32, b: i32) -> i32 {
 A unique feature of Rust that ensures memory safety without a garbage collector. Ownership rules help manage heap data.
 
 ----
-[Home](/docs/README.md)
+[Home](../README.md)
 
