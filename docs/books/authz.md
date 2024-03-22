@@ -1,8 +1,26 @@
 ## Authorization
 
 Managing centralized access control decisions across different systems and applications. 
-- Benefits for Security:
 
+- Benefits for Security:
 Centralized Policy Authoring and managing: Hybrid authorization allows defining and enforcing access control policies from a central location. 
 
-Fine Grained Access Control: Granular control over user permissions becomes possible. One can define access based on user roles, attributes, and specific resource types, enhancing security and minimizing data exposure.
+- Fine Grained Access Control: 
+Granular control over user permissions becomes possible. One can define access based on user roles, attributes, and specific resource types, enhancing security and minimizing data exposure.
+
+##### Policy
+Policy is a schema which holds the relationship of 1) who, 2)on what 3)How.
+```
+{
+    Policy = (Subject,Resource(s),Role(s)
+}
+
+Subject = (User,Service, Groups)
+
+Resource(s) = Attributes Of Business Entiry
+
+Role(s) = Collection Permissions, which is allowed on each Resource.
+
+Permission(s) = Service.resource.action ex:- Order.PendingOrders.view
+
+```
