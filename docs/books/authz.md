@@ -10,9 +10,10 @@ Granular control over user permissions becomes possible. One can define access b
 
 ##### Policy
 Policy is a schema which holds the relationship of 
- 1) who .
- 2)on what .
- 3)How .
+
+    - who .
+    - On what .
+    - How .
 
 ```
 {
