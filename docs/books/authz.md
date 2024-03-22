@@ -9,13 +9,17 @@ Centralized Policy Authoring and managing: Hybrid authorization allows defining 
 Granular control over user permissions becomes possible. One can define access based on user roles, attributes, and specific resource types, enhancing security and minimizing data exposure.
 
 ##### Policy
-Policy is a schema which holds the relationship of 1) who, 2)on what 3)How.
+Policy is a schema which holds the relationship of 
+ 1) who .
+ 2)on what .
+ 3)How .
+ 
 ```
 {
     Policy = (Subject,Resource(s),Role(s)
 }
 
-Subject = (User,Service, Groups)
+Subject = (User,functionalId, Groups)
 
 Resource(s) = Attributes Of Business Entiry
 

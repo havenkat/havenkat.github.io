@@ -1,10 +1,10 @@
 * **Index** 
   - [Home](./README.md)
-  - [Rust](./books/rust.md)
   - Authorization:
       - [Basic Concepts](./books/authz.md)
-      - [Mutual Auth](./books/mtls.md)
       - [Cedar](./books/cedar.md)
-
+  - [Rust](./books/rust.md)
+  
+----
 Author
 * **Hari P Venkateshaiah** 
