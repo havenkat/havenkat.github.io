@@ -6,7 +6,7 @@
 |   | [Policy Enforcement Point]()       | [Traits](./books/rust/trait.md)   |[Factory](./books/design/factory.md) | |
 |   | [Policy Decision Point]()          |   | [Composite](./books/design/composite.md)| |
 |   | [Cedar](./books/cedar.md)          |   | [Proxy](./books/design/proxy.md)        | |
-
+|   |   |   |  [Decorator](./books/design/decorator.md)         |   |
   
   
  
