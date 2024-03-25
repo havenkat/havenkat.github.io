@@ -3,16 +3,16 @@
 This pattern speaks about "has a clause".
 
 ```
-struct Engineer interface {
+type Engineer interface {
     Dowork()
 }
 
-struct developer struct {}
+type developer struct {}
 func (dev *developer) Dowork() {
   todo("")
 }
 
-struct architect struct {}
+type architect struct {}
 func (arch *architect) Dowork() {
   todo("")
 }
