@@ -10,4 +10,4 @@
 - The PAP is essential for maintaining centralized control and precision in the management of access control policies, providing a unified interface for policy administration.
 
 ----
-[Home](../README.md)
+[Home](../../README.md)
