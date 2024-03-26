@@ -7,4 +7,7 @@
 
 - Policy Distribution: It distributes the policies to the Policy Decision Points (PDPs) for enforcement, ensuring consistency across the system.
 
-- The PAP is essential for maintaining centralized control and precision in the management of access control policies, providing a unified interface for policy administration
+- The PAP is essential for maintaining centralized control and precision in the management of access control policies, providing a unified interface for policy administration.
+
+----
+[Home](../README.md)
