@@ -13,6 +13,7 @@
 - [Secure Enclave](./books/general/secure-enclave.md)
 - [Multifactor Fatigue](./books/general/mfa-fatigue.md)
 - [Multiple session](./books/authz/session.md)
+- [Micro service design patterns](./books/design/msdesignpat.md)
 ----
 Author
 * **Hari P Venkateshaiah** 
