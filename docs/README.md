@@ -12,6 +12,7 @@
   
 - [Secure Enclave](./books/general/secure-enclave.md)
 - [Multifactor Fatigue](./books/general/mfa-fatigue.md)
+- [Multiple session](./books/authz/session.md)
 ----
 Author
 * **Hari P Venkateshaiah** 
