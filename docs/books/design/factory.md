@@ -9,7 +9,7 @@ struct Engineer interface {
 }
 
 struct developer struct {}
-func (dev *developer)Dowork() {
+func (dev *developer) Dowork() {
 
 }
 
