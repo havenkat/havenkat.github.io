@@ -1,4 +1,4 @@
-- Micro Services design patterns :
+#### Micro Services design patterns :
 
 
 Some of the common patterns:
@@ -22,3 +22,6 @@ Some of the common patterns:
 - Circuit Breaker: This pattern is used to detect failures and encapsulates the logic of preventing a failure from constantly recurring.
 
 - Decomposition: This pattern is used to break down an application into smaller services by business capability or subdomain.
+
+----
+[Home](../../README.md)
